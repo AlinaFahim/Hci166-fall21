@@ -14,6 +14,7 @@
  
  
  PERSONAS:
+ 
  https://github.com/AlinaFahim/Hci166-fall21/blob/main/02-NarrowingDown/persona_staff1.md
  
  https://github.com/AlinaFahim/Hci166-fall21/blob/main/02-NarrowingDown/persona_staff2.md
@@ -27,6 +28,7 @@
  https://github.com/AlinaFahim/Hci166-fall21/blob/main/02-NarrowingDown/personal_tch1.md
  
  SCENARIOS:
+ 
 https://github.com/AlinaFahim/Hci166-fall21/blob/main/02-NarrowingDown/Scenarios/scen1_idea1.md
 
 https://github.com/AlinaFahim/Hci166-fall21/blob/main/02-NarrowingDown/Scenarios/scen1_idea2.md
