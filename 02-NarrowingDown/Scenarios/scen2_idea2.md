@@ -1,4 +1,4 @@
-IDEA 2            #MAKE CLEAR PLANS AND SHARE WITH STUDENTS 
+IDEA 2# LEARN HOW TO HANDLE PROJECT AND SHARE YOUR SCCREEN.
                        
                       SCENERIO 2
                       
