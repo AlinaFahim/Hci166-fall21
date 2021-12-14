@@ -1,7 +1,7 @@
 
 IDEA 2 # LEARN HOW TO HANDLE PROJECT AND SHARE YOUR SCCREEN. 
                         
-                        SCENARIO 2
+                        SCENARIO 1
 
 Teachers identified two core skills for using your device(s) well.
 
