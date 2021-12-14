@@ -1,4 +1,4 @@
-IDEA 2:                           #INTERACTION
+IDEA 2# LEARN HOW TO HANDLE PROJECT AND SHARE YOUR SCCREEN.
 
               SCENERIO 4
 
