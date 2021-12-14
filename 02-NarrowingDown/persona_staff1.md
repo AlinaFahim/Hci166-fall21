@@ -7,7 +7,7 @@ ADMIN MEMBER FOR JUNIOR POSITION(YOUNG)
 |Gender| Male|
 |Occupation |Office Employee|
 |Position |Junior|
-|Office Work Status|Ptogram Department|
+|Office Work Status|Program Department|
 |Residence |Gulstan-e-Johar (Karachi)|
 |School Name |The Citizen Foundation|
 |Email Id |irfan@gmail.com|
