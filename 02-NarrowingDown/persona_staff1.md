@@ -10,3 +10,4 @@ ADMIN MEMBER FOR JUNIOR POSITION(YOUNG)
 |Residence |Gulstan-e-Johar (Karachi)|
 |School Name |The Citizen Foundation|
 |Email Id |irfan@gmail.com|
+|Married/Un-Married | Un-Married|
