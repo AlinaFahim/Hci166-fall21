@@ -7,6 +7,7 @@ PERSONA FOR TEACHER 2 (OLD)
 |Education| Masters|
 |Area|Gulstan-e-Johar|
 |Residence |Karachi|
+|Speclization in which subjescts?|English,Urdu,Maths|
 |Teaching at which school?| The Citizen Foundation|
 |Status |Married|
 |No.Of Family Members| 8|
