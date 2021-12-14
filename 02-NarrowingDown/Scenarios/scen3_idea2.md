@@ -1,4 +1,4 @@
-IDEA 2                  #CREATE SMALL GRROUPS 
+IDEA 2#                LEARN HOW TO HANDLE PROJECT AND SHARE YOUR SCCREEN.
 
                          SCENERIO 3
 
