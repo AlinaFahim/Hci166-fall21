@@ -62,4 +62,6 @@ ADMIN WIREFRAME:
 ![wfAdm06](https://user-images.githubusercontent.com/92322865/148096921-b000f50b-84be-4fcf-8f3d-f5a7d11e3596.png)
 ![wfAdm07](https://user-images.githubusercontent.com/92322865/148096930-92e2f0f3-61a1-4762-a42a-01c55412d7ac.png)
 
+This is the link of our short video introduction of our project view.
 
+https://youtu.be/ezjUzMWN2kE
